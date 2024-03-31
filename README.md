@@ -4,9 +4,9 @@ I'm Juned (pronounced as Ju-ned), A full-stack software engineer based in India.
 <!-- <br /><br /> -->
 <img  alt="aesthetic-coding-image" src="./static/aesthetic-coding.gif" width="400" height="auto" />
 
-## Hi! How are you? 😄
+## Nice to meet you! 😄
 
-Nice to meet you! I've always been obsessed with learning and problem solving, software engineering is the field that nurtures my creativity 🧠
+I've always been obsessed with learning and problem solving, software engineering is the field that nurtures my creativity 🧠
 
 I'm always up for a discussion on softwares, business and other opportunity. I'm proficient in web development and currently learning about mobile development.
 
