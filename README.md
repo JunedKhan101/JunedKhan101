@@ -6,7 +6,7 @@ I'm Juned (pronounced as Ju-ned), A full-stack software engineer based in India.
 
 ## Hi! How are you? 😄
 
-Nice to meet you! I've always been obseseed with learning and problem solving, software engineering is the field that nurtures my creativity 🧠
+Nice to meet you! I've always been obsessed with learning and problem solving, software engineering is the field that nurtures my creativity 🧠
 
 I'm always up for a discussion on softwares, business and other opportunity. I'm proficient in web development and currently learning about mobile development.
 
@@ -24,5 +24,4 @@ I'm always up for a discussion on softwares, business and other opportunity. I'm
 
 
 ## ⚡ Github Stats
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JunedKhan101&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunedKhan101&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JunedKhan101&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical" />&nbsp;<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunedKhan101&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
