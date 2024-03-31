@@ -24,4 +24,4 @@ I'm always up for a discussion on softwares, business and other opportunity. I'm
 
 
 ## ⚡ Github Stats
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JunedKhan101&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical" />&nbsp;<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunedKhan101&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JunedKhan101&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical" />&nbsp;<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunedKhan101&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=radical"/>
