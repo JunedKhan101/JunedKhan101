@@ -14,7 +14,7 @@ I'm always up for a discussion on softwares, business and other opportunity. I'm
 
 - 💻 I love exploring new tech stack and developing new stuff
 - 📖 I'm currently learning about mobile development (React Native and Flutter)
-- 🌱 I write blog here https://www.junedkhan.com/blog
+- 🌱 I write blog here: https://www.junedkhan.com/blog
 - ⚡ Fun fact: I use tabs instead of spaces
 - 📫 How to reach me: https://www.junedkhan.com/contact/
 
@@ -24,4 +24,4 @@ I'm always up for a discussion on softwares, business and other opportunity. I'm
 
 
 ## ⚡ Github Stats
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JunedKhan101&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical" />&nbsp;<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunedKhan101&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=6&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JunedKhan101&show_icons=false&hide_border=true&count_private=true&show_icons=true&theme=radical" />&nbsp;<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JunedKhan101&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&exclude_repo=Vim-configs&langs_count=6&theme=radical"/>
