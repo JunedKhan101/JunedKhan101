@@ -14,9 +14,9 @@ I'm always up for a discussion on softwares, business and other opportunity. I'm
 
 - 💻 I love exploring new tech stack and developing new stuff
 - 📖 I'm currently learning about mobile development (React Native and Flutter)
-- 🌱 I write blog here: https://www.junedkhan.com/blog
+- 🌱 I write blog here: https://junedkhan.netlify.app/blog
 - ⚡ Fun fact: I use tabs instead of spaces
-- 📫 How to reach me: https://www.junedkhan.com/contact/
+- 📫 How to reach me: https://junedkhan.netlify.app/contact
 
 ### ⚙️ Languages and Tools:
 
